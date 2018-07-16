@@ -1,0 +1,9 @@
+.DS_Store
+.metafata
+.recommenders
+.sonarlint
+.classpath
+.project
+.settings
+target
+META-INF
